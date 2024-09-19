@@ -1,0 +1,1 @@
+2024-05-14 21:20:52,111 views.py[line:149] INFO M:POST P:/webscan_backend/_subdomain UPOST:<QueryDict: {'domain': ['www.tianllok.com']}> SC:200 UIP:127.0.0.1 RDATA:['tianllok.com', 'www.tianllok.com']
